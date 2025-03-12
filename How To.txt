@@ -1,1 +1,3 @@
- To clone your repository using the command line using HTTPS, under "Quick setup", click . To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click SSH, then click .
+Do this.
+Do that.
+Do the other.
